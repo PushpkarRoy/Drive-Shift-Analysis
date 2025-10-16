@@ -144,6 +144,3 @@ This project blends SQL logic, data visualization, and business storytelling int
 
 
 ---
-
-Would you like me to add one **Power BI dashboard caption section** (like a short paragraph under each screenshot explaining the insights shown — e.g., “This chart shows monthly growth trends and YoY performance”)?  
-It’ll make your GitHub page even more impressive for recruiters.
