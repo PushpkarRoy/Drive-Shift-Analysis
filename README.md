@@ -24,7 +24,7 @@ The project is built on **3 core tables**:
 
 ### 1️⃣ `gold_sales`
 | Column Name | Description | 
-|--------------|-------------|
+|--------------|-------------| 
 | order_number | Unique order ID |
 | order_date | Date of purchase |
 | customer_key | Links to customer |
