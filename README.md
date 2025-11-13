@@ -16,7 +16,7 @@ This project combines **data cleaning, transformation, and visualization** to he
 - Average customer lifespan  
 - Customer segmentation by age, loyalty, and purchase frequency 
  
----
+---  
     
 ## 🧱 Dataset Structure   
  
