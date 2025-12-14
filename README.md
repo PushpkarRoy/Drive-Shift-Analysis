@@ -26,7 +26,7 @@ The project is built on **3 core tables**:
 | Column Name | Description | 
 |--------------|-------------| 
 | order_number | Unique order ID |
-| order_date | Date of purchase |
+| order_date | Date of purchase | 
 | customer_key | Links to customer |
 | product_key | Links to product |
 | quantity | Number of bikes purchased |
