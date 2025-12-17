@@ -19,7 +19,7 @@ This project combines **data cleaning, transformation, and visualization** to he
 ---  
       
 ## 🧱 Dataset Structure     
- 
+   
 The project is built on **3 core tables**:  
  
 ### 1️⃣ `gold_sales` 
