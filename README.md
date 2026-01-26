@@ -11,7 +11,7 @@
 The **DriveShift Dashboard** is a complete **Bike Sales Analysis Project** designed to track customer buying behavior, sales performance, and product trends using **SQL**, **Power BI**, and **Excel**.  
 
 This project combines **data cleaning, transformation, and visualization** to help businesses identify key insights such as:
-- Top-selling bikes and brands  
+- Top-selling bikes and brands   
 - Monthly and yearly sales trends       
 - Average customer lifespan       
 - Customer segmentation by age, loyalty, and purchase frequency       
