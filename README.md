@@ -13,7 +13,7 @@ The **DriveShift Dashboard** is a complete **Bike Sales Analysis Project** desig
 This project combines **data cleaning, transformation, and visualization** to help businesses identify key insights such as:
 - Top-selling bikes and brands   
 - Monthly and yearly sales trends       
-- Average customer lifespan               
+- Average customer lifespan                  
 - Customer segmentation by age, loyalty, and purchase frequency              
                     
 ---         
