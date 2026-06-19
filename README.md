@@ -18,7 +18,7 @@ This project combines **data cleaning, transformation, and visualization** to he
                              
 ---                                 
                                      
-## 🧱 Dataset Structure                    
+## 🧱 Dataset Structure                         
           
 The project is built on **3 core tables**:    
   
