@@ -1,4 +1,4 @@
-# 🏍️ DriveShift Dashboard – Bike Sales Analysis    
+# 🏍️ DriveShift Dashboard – Bike Sales Analysiss 
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![SQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
